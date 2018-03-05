@@ -7,6 +7,7 @@ UI框架:http://element-cn.eleme.io/#/zh-CN/component/collapse<br />
 java并发学习目录:http://ifeve.com/java-concurrency-thread-directory/<br />
 lockback配置详解:https://www.cnblogs.com/warking/p/5710303.html<br />
 免费代理ip获取地址:http://lab.crossincode.com/proxy/api-ins/
+依赖注入原理：http://blog.csdn.net/benhuo931115/article/details/76035676
 <br />
 #框架模板
 
