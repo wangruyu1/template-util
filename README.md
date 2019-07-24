@@ -10,5 +10,10 @@ lockback配置详解:https://www.cnblogs.com/warking/p/5710303.html<br />
 依赖注入原理：http://blog.csdn.net/benhuo931115/article/details/76035676<br/>
 http://blog.csdn.net/u012291108/article/details/51851004<br/>
 <br />
-#框架模板
+#框架模板<br />
+
+#常用命令<br />
+kafka:<br />
+  #输出topic健康状况(备份,可用备份)<br />
+  bin/kafka-console-consumer.sh --bootstrap-server 192.168.188.1:9092 --from-beginning --topic topic_name<br />
 
