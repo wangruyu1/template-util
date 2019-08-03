@@ -17,3 +17,5 @@ kafka:<br />
   #输出topic健康状况(备份,可用备份)<br />
   bin/kafka-console-consumer.sh --bootstrap-server 192.168.188.1:9092 --from-beginning --topic topic_name<br />
 
+缓存:<br />
+  强烈推荐,guava有bug,https://github.com/ben-manes/caffeine/wiki/Writer<br />
