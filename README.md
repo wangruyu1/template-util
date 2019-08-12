@@ -19,3 +19,7 @@ kafka:<br />
 
 缓存:<br />
   强烈推荐,guava有bug,https://github.com/ben-manes/caffeine/wiki/Writer<br />
+
+
+内存分析:<br />
+  计算对象占用内存大小:https://www.javamex.com/classmexer/ <br />
