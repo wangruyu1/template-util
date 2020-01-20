@@ -9,6 +9,7 @@ lockback配置详解:https://www.cnblogs.com/warking/p/5710303.html<br />
 免费代理ip获取地址:http://lab.crossincode.com/proxy/api-ins/<br/>
 依赖注入原理：http://blog.csdn.net/benhuo931115/article/details/76035676<br/>
 http://blog.csdn.net/u012291108/article/details/51851004<br/>
+bash光标移动命令:https://fukun.org/archives/12131599.html<br/>
 <br />
 #框架模板<br />
 
@@ -23,3 +24,4 @@ kafka:<br />
 
 内存分析:<br />
   计算对象占用内存大小:https://www.javamex.com/classmexer/ <br />
+  
