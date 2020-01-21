@@ -10,7 +10,7 @@ lockback配置详解:https://www.cnblogs.com/warking/p/5710303.html<br />
 依赖注入原理：http://blog.csdn.net/benhuo931115/article/details/76035676<br/>
 http://blog.csdn.net/u012291108/article/details/51851004<br/>
 bash光标移动命令:https://fukun.org/archives/12131599.html<br/>
-elasticsearch6 java api 中文文档:https://elasticsearchjava-api.readthedocs.io/en/latest/doc-api.html  英文文档:https://www.elastic.co/guide/en/elasticsearch/client/java-api/6.8/transport-client.html<br/>
+elasticsearch6 java api 中文文档:https://elasticsearchjava-api.readthedocs.io/en/latest/doc-api.html 中文文档:http://doc.codingdict.com/elasticsearch/328/ 英文文档:https://www.elastic.co/guide/en/elasticsearch/client/java-api/6.8/transport-client.html<br/>
 <br />
 #框架模板<br />
 
