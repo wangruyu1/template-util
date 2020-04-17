@@ -25,4 +25,7 @@ kafka:<br />
 
 内存分析:<br />
   计算对象占用内存大小:https://www.javamex.com/classmexer/ <br />
+ 
+logback详解：<br />
+  https://github.com/YLongo/logback-chinese-manual/blob/master/03%E7%AC%AC%E4%B8%89%E7%AB%A0%EF%BC%9Alogback%20%E7%9A%84%E9%85%8D%E7%BD%AE.md <br />
   
