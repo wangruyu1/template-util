@@ -28,4 +28,6 @@ kafka:<br />
  
 logback详解：<br />
   https://github.com/YLongo/logback-chinese-manual/blob/master/03%E7%AC%AC%E4%B8%89%E7%AB%A0%EF%BC%9Alogback%20%E7%9A%84%E9%85%8D%E7%BD%AE.md <br />
+
+linux命令详解:https://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/strace.html<br />
   
