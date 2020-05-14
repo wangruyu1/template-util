@@ -33,3 +33,4 @@ linux命令详解:https://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/strace
 navicat破解版：http://www.itxiaozhong.com/1525.html <br />
 在线画流程图：https://www.processon.com/ <br />
 idea mac版本破解：https://macstore.info/a/jetbrain_ieda.html <br />
+idea 插件安装目录:~/Library/Application Support/JetBrains/IntelliJIdea2020.1/plugins/ <br/>
