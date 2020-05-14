@@ -32,3 +32,4 @@ logback详解：<br />
 linux命令详解:https://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/strace.html<br />
 navicat破解版：http://www.itxiaozhong.com/1525.html <br />
 在线画流程图：https://www.processon.com/ <br />
+idea mac版本破解：https://macstore.info/a/jetbrain_ieda.html <br />
