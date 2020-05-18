@@ -34,3 +34,4 @@ navicat破解版：http://www.itxiaozhong.com/1525.html <br />
 在线画流程图：https://www.processon.com/ <br />
 idea mac版本破解：https://macstore.info/a/jetbrain_ieda.html <br />
 idea 插件安装目录:~/Library/Application Support/JetBrains/IntelliJIdea2020.1/plugins/ <br/>
+open-jdk下载：https://adoptopenjdk.net/index.html?variant=openjdk11&jvmVariant=hotspot <br/>
